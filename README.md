@@ -19,5 +19,5 @@ The thesis also investigates the scaling limits of the discrete process, leading
 
 ## Repository Contents
 
-- **`thesis/` (PDF):** Complete Master's thesis manuscript covering the theoretical framework, scaling limit proofs, qualitative analysis, and numerical experiments.
-- **`code/`:** Python scripts implementing the numerical solvers and stochastic simulations of the limiting SDE.
+- **`thesis.pdf:** Complete Master's thesis manuscript covering the theoretical framework, scaling limit proofs, qualitative analysis, and numerical experiments.
+- **`simulations.py`:** Python scripts implementing the numerical solvers and stochastic simulations of the limiting SDE.
